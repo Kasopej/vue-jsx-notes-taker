@@ -1,6 +1,6 @@
 {
-  "name": "Vue2_Lowlevel",
-  "description": "a vue 2 lowlevel",
+  "name": "vue-jsx-note-taker",
+  "description": "a vue 2 note taking app",
   "version": "1.0.0",
   "author": "kasope",
   "private": true,
