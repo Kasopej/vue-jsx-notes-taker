@@ -1,4 +1,4 @@
-# webpack-simple
+# Vue-JSX note-taker
 
 > A simple Vue 2 note taking app, built using jsx syntax
 
